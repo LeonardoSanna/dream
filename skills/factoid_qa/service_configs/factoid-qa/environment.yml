@@ -1,3 +1,0 @@
-SERVICE_PORT: 8071
-SERVICE_NAME: factoid_qa
-FLASK_APP: server

@@ -1,3 +1,0 @@
-CONFIG: sentseg_ru_bert_torch.json
-CUDA_VISIBLE_DEVICES: '0'
-FLASK_APP: server
